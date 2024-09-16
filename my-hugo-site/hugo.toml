@@ -1,4 +1,12 @@
 baseURL = 'https://shubendhum.github.io/shubendhu.github.io/'
+
+relativeURLs = true
+canonifyURLs = true
+title = "My Hugo Site"
+
+
+# Other configurations
+
 languageCode = 'en-us'
 theme = "adritian"
 
