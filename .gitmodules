@@ -1,0 +1,12 @@
+[submodule "hugo-site/shub-bio-site/themes/Niello"]
+	path = hugo-site/shub-bio-site/themes/Niello
+	url = https://github.com/guangmean/Niello.git
+[submodule "hugo-site/shub-bio-site/themes/hugo-initio"]
+	path = hugo-site/shub-bio-site/themes/hugo-initio
+	url = https://github.com/miguelsimoni/hugo-initio.git
+[submodule "hugo-site/shub-bio-site/themes/anatole"]
+	path = hugo-site/shub-bio-site/themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "hugo-site/shub-bio-site/themes/adritian"]
+	path = hugo-site/shub-bio-site/themes/adritian
+	url = https://github.com/zetxek/adritian-free-hugo-theme.git
