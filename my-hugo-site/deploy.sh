@@ -4,7 +4,7 @@
 hugo --minify
 
 # Step 2: Copy contents from public/ to docs/
-cp -R public/* ../
+cp -R public/* ../docs
 
 # Step 3: Commit and push the changes
 cd ..
