@@ -1,6 +1,6 @@
 baseURL = 'https://shubendhum.github.io/shubendhu.github.io/'
 relativeURLs = true
-canonifyURLs = true
+canonifyURLs = false
 title = "Shubendhu Mahajan Bio"
 # Other configurations
 languageCode = 'en-us'

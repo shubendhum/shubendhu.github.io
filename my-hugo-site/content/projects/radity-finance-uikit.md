@@ -9,7 +9,7 @@ params:
     button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
-        URL: "https://www.adrianmoreno.info"
+        URL: "https://shubendhum.github.io/shubendhu.github.io/"
     image:  
         x: "images/works/radity-finance.jpg"
         _2x: "images/works/radity-finance@2x.jpg"
