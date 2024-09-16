@@ -1,7 +1,7 @@
 baseURL = 'https://shubendhum.github.io/shubendhu.github.io/'
 relativeURLs = true
 canonifyURLs = true
-title = "My Hugo Site"
+title = "Shubendhu Mahajan Bio"
 # Other configurations
 languageCode = 'en-us'
 theme = "adritian"
@@ -65,7 +65,7 @@ theme = "adritian"
       code = "GTM-XXXXX"
       enabled = false
   [params.logo]
-    text1 = "Shubendhu"
+    text1 = "Shubendhu "
     text2 = "Mahajan"
   [params.footer]
       copyright = "© shubendhu. "
