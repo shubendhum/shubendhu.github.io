@@ -10,3 +10,6 @@
 [submodule "hugo-site/shub-bio-site/themes/adritian"]
 	path = hugo-site/shub-bio-site/themes/adritian
 	url = https://github.com/zetxek/adritian-free-hugo-theme.git
+[submodule "my-hugo-site/themes/adritian"]
+	path = my-hugo-site/themes/adritian
+	url = https://github.com/zetxek/adritian-free-hugo-theme.git
