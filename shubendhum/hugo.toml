@@ -1,4 +1,4 @@
-baseURL = 'https://shubendhum.github.io/shubendhu.github.io/'
+baseURL = 'https://shubendhum.github.io/'
 relativeURLs = true
 canonifyURLs = true
 title = "Shubendhu Mahajan Bio"
