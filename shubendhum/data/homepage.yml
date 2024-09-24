@@ -63,9 +63,6 @@ about:
       I hold a Bachelor of Technology in Electronics and Communication, which laid the foundation for my problem-solving skills and technical expertise. For over 17 years, I have dedicated my career to solving complex challenges in the digital identity space. My work spans the design, implementation, and strategy behind secure, scalable Customer Identity platforms. I’m passionate about this field because it allows me to blend cutting-edge technology with practical, impactful solutions that protect and enhance customer experiences.
       I thrive on tackling new challenges and constantly seek opportunities to evolve. Throughout my career, I’ve taken on new roles and responsibilities not just for growth, but because each move allowed me to solve increasingly complex digital identity problems. I’m driven by the need to innovate, explore emerging technologies, and continuously improve solutions to keep pace with ever-evolving security and identity demands.
     </p>
-    <p class="lead">
-      Tech innovation is what excites me. Each new role has provided me with the chance to learn, experiment, and apply the latest in digital identity technology—from cloud-native architectures to AI-driven fraud prevention. I’m always interested in projects that push the boundaries of digital identity, automation, and platform engineering.
-    </p>
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
@@ -88,7 +85,7 @@ experience:
   enable: true
   title: "Experience"
   description: >
-    This is where you can highlight a bit over your experience. Years of total experience, specialization, etc.
+      Tech innovation is what excites me. Each new role has provided me with the chance to learn, experiment, and apply the latest in digital identity technology—from cloud-native architectures to AI-driven fraud prevention. I’m always interested in projects that push the boundaries of digital identity, automation, and platform engineering.
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
