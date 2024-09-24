@@ -6,9 +6,9 @@ head:
 showcase:
   enable: true
   title: "Shubendhu Mahajan"
-  subtitle: "Senior Technology Manager"
+  subtitle: "Head of Digital Identity Engineering & Innovation"
   description: >
-    With over 17 years of experience in digital identity and cloud technologies, I am known for being a fast learner and an all-rounder, quickly adapting to new challenges and consistently delivering results. In both my professional and personal life, I am often regarded as a problem solver—whether it’s providing technical guidance, friendly advice on legal or business matters, or even offering insights into home building, I bring a broad perspective and a keen analytical mind to every situation. As a Senior Technology Manager at ANZ Bank, I lead high-performing teams and deliver strategic digital identity solutions that drive business value. My ability to absorb new information quickly and apply it effectively enables me to navigate complex projects and lead initiatives that have a lasting impact. 
+    With over 17 years of experience in digital identity, cloud technologies, and security, I specialize in leading the delivery of comprehensive Customer Identity platforms. My role involves researching the latest advancements in digital identity technology, designing and implementing solutions that are scalable, secure, and aligned with business goals. I’m responsible for crafting strategic product roadmaps that accelerate platform evolution, focusing on automation, faster releases, and DevOps integration. My expertise in security ensures that all solutions meet the highest industry standards. As a leader, I mentor and guide a team of Engineering Managers and Technical Product Owners, fostering a culture of innovation and continuous improvement. My vision is to build agile, high-performing teams that deliver impactful results while staying ahead in a rapidly evolving digital landscape. 
   image:
     x: "images/showcase/showcase.png"
     _2x: "images/showcase/showcase@2x.png"
@@ -18,7 +18,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://shubendhum.github.io/shubendhu.github.io/"
+    URL: "https://shubendhum.github.io/"
 
   socialLinks:
     - icon: "linkedin"
@@ -57,20 +57,19 @@ about:
   title: "Who am I?"
   content: >
     <p class="lead">
-      Here you can add some information about you. A small excerpt that describes 
-      your experience, for example.   
+      I am known for being a fast learner, someone who quickly adapts to new challenges and finds solutions to every problem. People often call me an all-rounder, whether in my professional life—where I lead teams and deliver complex digital identity solutions—or in my personal life, where I offer guidance on everything from technology to business, real estate, home automation, and even trade work. I bring a broad perspective and a keen analytical mind to every situation, allowing me to navigate diverse challenges with ease and deliver practical, effective solutions. My ability to absorb new information and apply it strategically makes me a reliable problem solver, both at work and among friends. 
       </p>
       <p class="lead">
-      You explain something about your academic/study background, as well as your
-      preferred areas of work. Think of this area as context-setting for the experience
-      that you will describe below. Why did you change jobs? What drove you to take a 
-      new gig? Even if you are not looking for a job, it's a good way to hint about
-      what kind of projects you are interested in.
+      I hold a Bachelor of Technology in Electronics and Communication, which laid the foundation for my problem-solving skills and technical expertise. For over 17 years, I have dedicated my career to solving complex challenges in the digital identity space. My work spans the design, implementation, and strategy behind secure, scalable Customer Identity platforms. I’m passionate about this field because it allows me to blend cutting-edge technology with practical, impactful solutions that protect and enhance customer experiences.
+      I thrive on tackling new challenges and constantly seek opportunities to evolve. Throughout my career, I’ve taken on new roles and responsibilities not just for growth, but because each move allowed me to solve increasingly complex digital identity problems. I’m driven by the need to innovate, explore emerging technologies, and continuously improve solutions to keep pace with ever-evolving security and identity demands.
+    </p>
+    <p class="lead">
+      Tech innovation is what excites me. Each new role has provided me with the chance to learn, experiment, and apply the latest in digital identity technology—from cloud-native architectures to AI-driven fraud prevention. I’m always interested in projects that push the boundaries of digital identity, automation, and platform engineering.
     </p>
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://shubendhum.github.io/shubendhu.github.io/"
+    URL: "https://shubendhum.github.io/"
   image:
     x: "images/who-am-i/user-picture.png"
     _2x: "images/who-am-i/user-picture@2x.png"
@@ -93,7 +92,7 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://shubendhum.github.io/shubendhu.github.io/"
+    URL: "https://Linkedin.com/in/shubendhum"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
