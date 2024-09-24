@@ -6,9 +6,9 @@ head:
 showcase:
   enable: true
   title: "Shubendhu Mahajan"
-  subtitle: "Head of Digital Identity Engineering & Innovation"
+  subtitle: "Head of Digital Identity Engineering"
   description: >
-    With over 17 years of experience in digital identity, cloud technologies, and security, I specialize in leading the delivery of comprehensive Customer Identity platforms. My role involves researching the latest advancements in digital identity technology, designing and implementing solutions that are scalable, secure, and aligned with business goals. I’m responsible for crafting strategic product roadmaps that accelerate platform evolution, focusing on automation, faster releases, and DevOps integration. My expertise in security ensures that all solutions meet the highest industry standards. As a leader, I mentor and guide a team of Engineering Managers and Technical Product Owners, fostering a culture of innovation and continuous improvement. My vision is to build agile, high-performing teams that deliver impactful results while staying ahead in a rapidly evolving digital landscape. 
+    With over 17 years of experience in digital identity, cloud technologies, and security, I specialize in leading the delivery of comprehensive Customer Identity platforms. My role involves researching the latest advancements in digital identity technology, designing and implementing solutions that are scalable, secure, and aligned with business goals. I’m responsible for crafting strategic product roadmaps that accelerate platform evolution, focusing on automation, faster releases, and DevOps integration. My expertise in security ensures that all solutions meet the highest industry standards. As a leader, I mentor and guide a team of Engineering Managers and Technical Product Owners, fostering a culture of innovation and continuous improvement. My vision is to build agile, high-performing teams that deliver impactful results. 
   image:
     x: "images/showcase/showcase.png"
     _2x: "images/showcase/showcase@2x.png"
