@@ -102,7 +102,7 @@ experience:
 # Client & Work
 client_and_work:
   title: "Clients & Works"
-  enable: true
+  enable: false
 
 # testimonial
 testimonial:
@@ -147,7 +147,7 @@ contact:
     email: '<a href="mailto:mail@example.com">shubendhum@gmail.com</a>'
   address:
     title: "Address"
-    address: "40 Mosley Cres Truganina<br />3029, Truganina"
+    address: "Mt Waverley<br />3149, Truganina"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
