@@ -1,6 +1,6 @@
 ---
 date: '2011-04-01T00:00:00+01:00' # date in which the content is created - defaults to "today"
-title: 'HCL Technologies'
+title: "HCL Technologies"
 draft: false # set to "true" if you want to hide the content 
 jobTitle: "Consultant/Engineer - Identity" # job description/title. Fill-in
 company: "HCL Technologies LTD" # name of the company you worked for. Fill-in
